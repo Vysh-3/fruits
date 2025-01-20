@@ -1,0 +1,40 @@
+{
+  "Fruits": [
+    {
+      "name": "Apples",
+      "description": "Crisp, juicy apples that come in a variety of flavors from sweet to tart.
+        Rich in fiber and vitamins, apples are perfect for snacking or adding to salads and desserts.
+        Varieties: Gala, Fuji, Granny Smith, Honeycrisp, Red Delicious.
+        Health Benefits: Great source of dietary fiber, promotes heart health, and contains antioxidants that help protect against chronic diseases.",
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_Db0jJvWe6vYScLksI8qoM2WCeHfJnSBVw&s"
+    },
+    {
+      "name": "Oranges",
+      "description": "Refreshing, tangy, and sweet oranges packed with vitamin C. Perfect for juicing, snacking, or adding to savory and sweet dishes.
+        Varieties: Navel, Valencia, Blood Orange, Cara Cara, Clementine.
+        Health Benefits: Boosts immune system, promotes healthy skin, and aids in digestion.",
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsa3K1PkfEgVzc6JeayE-uGwejpsBDBbVBUw&s"
+    },
+    {
+      "name": "Bananas",
+      "description": "Creamy, sweet bananas that are convenient and nutritious. Ideal for a quick snack, smoothies, or baking.
+        Varieties: Cavendish, Plantain, Red Banana, Lady Finger, Blue Java.
+        Health Benefits: Rich in potassium, supports heart health, and provides quick energy.",
+      "url":"https://organicmandya.com/cdn/shop/files/BananaPachabale.jpg?v=1721369894&width=1000"
+    },
+    {
+        "name":"Mangoes",
+        "description":"Juicy, aromatic mangoes with a luscious texture and tropical sweetness. Excellent for eating fresh, in smoothies, or in savory dishes like salsas and salads.
+        Varieties: Alphonso, Haden, Kent, Ataulfo, Tommy Atkins.
+        Health Benefits: High in vitamin C and A, supports eye health, and boosts the immune system.",
+        "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFFO_itt5Yux9xPi58A5omfQvETfFhm5ub1Q&s"
+    },
+    {
+        "name":"Grapes",
+        "description":"Succulent, sweet grapes that come in a range of colors and flavors. Great for snacking, adding to cheese boards, or making wine.
+        Varieties: Concord, Red Globe, Thompson Seedless, Cotton Candy, Moon Drops.
+        Health Benefits: Rich in antioxidants, supports heart health, and helps reduce inflammation.",
+        "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwtpke985mEYorJ8rPNORaCfg7kCncYnMGgA&s"
+    }
+  ]
+}
